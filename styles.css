@@ -23,7 +23,10 @@ img {
   display: block;
   margin: 0 auto;
 }
-
+h1 {
+  font-size: 60px;
+  text-align: center;
+}
 
 
 p,
