@@ -1,6 +1,6 @@
 # Weather & Infor - App 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and REST API as well. 
 
 ## Available Scripts
 
@@ -24,3 +24,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 ### When there is only one country matching the query, then the basic data of the country (eg. capital and area), its flag and the languages spoken as well as weather are shown:
 
 <img width="741" alt="Screenshot 2023-06-11 at 22 54 25" src="https://github.com/VienThanh12/ProjectAWeatherApp/assets/67015555/4f526456-0b20-4aec-a9d8-97ec2856da58">
+
