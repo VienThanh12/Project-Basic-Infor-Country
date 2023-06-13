@@ -1,4 +1,4 @@
-# INFORMATION OF A COUNTRY ** Web Project **  
+# INFORMATION OF A COUNTRY (Web Project)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and [Weather-API](https://openweathermap.org/api). 
 
@@ -11,7 +11,7 @@ In the project directory, you can run:
 > Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-# Description of Project
+## Description of Project
 
 - If there are too many (over 10) countries that match the query, then the user is prompted to make their query more specific:
 
