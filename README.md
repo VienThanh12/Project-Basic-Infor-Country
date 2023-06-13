@@ -1,4 +1,4 @@
-# INFORMATION OF A COUNTRY - App 
+# INFORMATION OF A COUNTRY - WEB PROJECT 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and [Weather-API](https://openweathermap.org/api). 
 
