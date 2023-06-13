@@ -1,6 +1,6 @@
 # Weather & Infor - App 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and [Weather-API]([https://github.com/facebook/create-react-app](https://openweathermap.org/api) as well. 
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and [Weather-API]([https://github.com/facebook/create-react-app](https://openweathermap.org/api)) as well. 
 
 ## Available Scripts
 
